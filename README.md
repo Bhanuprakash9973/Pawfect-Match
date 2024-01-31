@@ -15,7 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
- Download APK from here
-
-  [Click Me][https://github.com/Bhanuprakash9973/Pawfect-Match/blob/main/Pawfect_Match.apk]
+ Download APK from [here][https://github.com/Bhanuprakash9973/Pawfect-Match/releases/download/main/Pawfect_Match.apk]
   
