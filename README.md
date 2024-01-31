@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
  Download APK from here
 
-  [APK][https://github.com/Bhanuprakash9973/Pawfect_Match.apk]
+  [Click Me][https://github.com/Bhanuprakash9973/Pawfect-Match/blob/main/Pawfect_Match.apk]
   
